@@ -14,8 +14,10 @@ MyBike landing page consists of:
 
  -footer.
 
- The page is implemented using the following technologies: HTML, CSS, JS, BEM, Sass.
+The page is implemented using the following technologies: HTML, CSS, JS, BEM, Sass.
+ 
+I added a block container for convenience and thus disturbed a little BEM.
 
- Copy link MYBIKE landing (https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=135-68&t=0p042EoXk46mCATr-0);
+Copy link MYBIKE landing (https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=135-68&t=0p042EoXk46mCATr-0);
 
-[DEMO LINK](https://volodymyrsar.github.io/layout_landing-page/).
+[DEMO LINK](https://volodymyrsar.github.io/my-bike-landing/).
