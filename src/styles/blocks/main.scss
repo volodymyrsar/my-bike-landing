@@ -1,0 +1,16 @@
+.main {
+  background-color: $colorPage;
+
+  &__content {
+    display: grid;
+    padding-bottom: 120px;
+
+    @include onTablet {
+      padding-bottom: 120px;
+    }
+
+    @include onDesktop {
+      padding-bottom: 180px;
+    }
+  }
+}
